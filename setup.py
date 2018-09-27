@@ -1,6 +1,6 @@
 
 PROJECT_NAME='pathcmd'
-VERSION='1.0'
+VERSION='1.1'
 
 from setuptools import setup, find_packages
 from os import path
